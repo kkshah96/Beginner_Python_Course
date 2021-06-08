@@ -31,5 +31,20 @@ Using `git` (recommended):
 * You should now have the `Beginner_Python_Course` repository on your machine, at the path specified in the commandline window (by default, on Windows, this would usually be under `C:\Users\<Your_User_Name>` and in other operating systems, under `/home/<Your_User_Name`
 * You may move the folder wherever is convenient for you
 
+Using zip download option:
 
+* Click the green "Code" button near the top right corner of this webpage
+* Click "Download Zip" in the dropdown
+* Extract the files from the Zip folder when done downloading to a location on your machine that is convenient for you
 
+## Getting updates
+
+This repository is in development, and will be consistently updated.
+
+To easily get changes using `git`:
+
+* Open a command prompt or terminal window
+* Navigate to the Beginner_Python_Course directory (e.g. `cd /path/to/Begginner_Python_Course`)
+* Run the command `git pull`
+
+Alternatively, you can just download a new copy of the Zip folder per the instructions above, or download individal folders/files as needed.
