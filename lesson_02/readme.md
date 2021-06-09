@@ -205,7 +205,7 @@ We would actually get an error that complains that strings and integers cannot b
 print('hello' + '123')
 
 >> hello123
-``
+```
 
 Or we could use the built in `str()` method to convert `123` to a string when we need to:
 
